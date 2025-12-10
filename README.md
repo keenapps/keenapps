@@ -10,13 +10,21 @@ My background combines hands-on technical work in **Linux environments**, **moni
 ### 🧰 Tech Stack
 
 **Cloud & IaC**
-- AWS | Azure | Terraform (learning) | Ansible | Docker | Kubernetes (in progress)
+- AWS | Azure | Terraform (learning)
+
+**Containers & Platform**
+- Docker (daily use, self-hosted homelab with 20+ containers)  
+- Nginx / Nginx Proxy Manager  
+- Kubernetes (learning)
 
 **Systems & Monitoring**
-- Linux (RHEL, Debian, Ubuntu) | Grafana | InfluxDB | BACnet | Shell / Bash
+- Linux (RHEL, Debian, Ubuntu)  
+- Grafana | InfluxDB | BACnet  
+- Shell / Bash
 
 **Automation & Dev**
-- Python (scripting) | YAML | Git | CI/CD (GitHub Actions, GitLab CI - learning)
+- Python (scripting, learning) | YAML | Git  
+- CI/CD (GitHub Actions, GitLab CI - learning)
 
 **Processes & Frameworks**
 - ITIL v4 | Agile | Scrum (PSM I Certified)
@@ -25,13 +33,15 @@ My background combines hands-on technical work in **Linux environments**, **moni
 
 ### 🎓 Certifications
 
+- Hashicorp Terraform Associate 004 (in prorgress)
 - AWS Certified Cloud Practitioner  
-- Microsoft Azure Fundamentals (AZ-900)  
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Azure Administrator (AZ-104, in progress)  
 - Microsoft AI Fundamentals  
 - Microsoft 365 Certified Grundlagen  
 - Professional Scrum Master I  
 - CompTIA+ (Udemy)  
-- LPIC-1 Bootcamp (in progress)  
+- LPIC-1 Bootcamp (Udemy)  
 - Docker, Linux Security & Hardening (Udemy)
 
 ---
@@ -44,6 +54,14 @@ My background combines hands-on technical work in **Linux environments**, **moni
 - Leadership & financial responsibility up to €100k  
 - Strong interest in automation, IaC, and cloud-native monitoring
 
+**Homelab & Docker**
+
+- Self-hosted **Docker server** running **22+ containers**, including:  
+  - Keycloak, Nextcloud, Nginx Proxy Manager  
+  - Unbound, Pi-hole, Bookstack, Wisemapping, and others  
+- Managing **reverse proxying, internal DNS, networking, backups, and updates**  
+- Focus on **automation, reproducible setups, and security hardening**
+
 ---
 
 ### 🌱 Currently Learning
@@ -52,6 +70,7 @@ My background combines hands-on technical work in **Linux environments**, **moni
 - CI/CD pipelines (GitHub Actions / GitLab CI)  
 - Kubernetes  
 - Cloud-native observability tools
+- First Contact in Coding with Python
 
 
 > “Automate everything, document always, and keep learning.”
