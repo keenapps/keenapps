@@ -14,16 +14,16 @@ My background combines hands-on technical work in **Linux environments**, **moni
 
 **Containers & Platform**
 - Docker (daily use, self-hosted homelab with 20+ containers)  
-- Nginx / Nginx Proxy Manager  
+- Nginx Proxy Manager  
 - Kubernetes (learning)
 
 **Systems & Monitoring**
-- Linux (RHEL, Debian, Ubuntu)  
+- Linux (Arch, Debian, Ubuntu)  
 - Grafana | InfluxDB | BACnet  
 - Shell / Bash
 
 **Automation & Dev**
-- Python (scripting, learning) | YAML | Git  
+- YAML | Git | Python (scripting, learning)
 - CI/CD (GitHub Actions, GitLab CI - learning)
 
 **Processes & Frameworks**
