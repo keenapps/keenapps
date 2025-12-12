@@ -38,7 +38,7 @@ My background combines hands-on technical work in **Linux environments**, **moni
 - Microsoft Azure Fundamentals (AZ-900)
 - Microsoft Azure Administrator (AZ-104, in progress)  
 - Microsoft AI Fundamentals  
-- Microsoft 365 Certified Grundlagen  
+- Microsoft 365 Certified Fundamentals  
 - Professional Scrum Master I  
 - CompTIA+ (Udemy)  
 - LPIC-1 Bootcamp (Udemy)  
