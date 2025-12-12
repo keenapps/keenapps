@@ -51,7 +51,7 @@ My background combines hands-on technical work in **Linux environments**, **moni
 - 5+ years in **Datacenter Operations** with focus on Linux  
 - Incident & problem resolution (1st & 2nd level) following ITIL v4  
 - Built **Grafana dashboards** with **InfluxDB / BACnet** for datacenter monitoring  
-- Leadership & financial responsibility up to €100k  
+- Leadership & financial responsibility
 - Strong interest in automation, IaC, and cloud-native monitoring
 
 **Homelab & Docker**
